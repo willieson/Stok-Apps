@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>davin</o:Author>
   <o:LastAuthor>davin</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>25</o:TotalTime>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>31</o:TotalTime>
   <o:Created>2025-09-08T07:27:00Z</o:Created>
-  <o:LastSaved>2025-09-08T07:52:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
+  <o:LastSaved>2025-09-08T07:58:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
   <o:Words>432</o:Words>
-  <o:Characters>2468</o:Characters>
+  <o:Characters>2467</o:Characters>
   <o:Lines>20</o:Lines>
   <o:Paragraphs>5</o:Paragraphs>
-  <o:CharactersWithSpaces>2895</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>2894</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -913,9 +913,55 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
+	{mso-list-id:124853993;
+	mso-list-type:hybrid;
+	mso-list-template-ids:116280680 940113935 940113945 940113947 940113935 940113945 940113947 940113935 940113945 940113947;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
 	{mso-list-id:613292394;
 	mso-list-template-ids:2088510156;}
-@list l0:level1
+@list l1:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:36.0pt;
@@ -923,7 +969,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
-@list l0:level2
+@list l1:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:72.0pt;
@@ -932,7 +978,7 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:"Courier New";
 	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
+@list l1:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:108.0pt;
@@ -940,7 +986,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level4
+@list l1:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:144.0pt;
@@ -948,7 +994,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level5
+@list l1:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:180.0pt;
@@ -956,7 +1002,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level6
+@list l1:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:216.0pt;
@@ -964,7 +1010,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level7
+@list l1:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:252.0pt;
@@ -972,7 +1018,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level8
+@list l1:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:288.0pt;
@@ -980,7 +1026,7 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l0:level9
+@list l1:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:324.0pt;
@@ -988,124 +1034,55 @@ div.WordSection1
 	text-indent:-18.0pt;
 	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
-@list l1
+@list l2
+	{mso-list-id:898632890;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-137171368 940113935 940113945 940113947 940113935 940113945 940113947 940113935 940113945 940113947;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l3
 	{mso-list-id:998381856;
 	mso-list-template-ids:872589146;}
-@list l1:level1
-	{mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level2
-	{mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level3
-	{mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level4
-	{mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level5
-	{mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level6
-	{mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level7
-	{mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level8
-	{mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l1:level9
-	{mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;}
-@list l2
-	{mso-list-id:1248804518;
-	mso-list-template-ids:1286238888;}
-@list l2:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l2:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l2:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3
-	{mso-list-id:1555044562;
-	mso-list-template-ids:-621366494;}
 @list l3:level1
 	{mso-level-tab-stop:36.0pt;
 	mso-level-number-position:left;
@@ -1143,66 +1120,227 @@ div.WordSection1
 	mso-level-number-position:left;
 	text-indent:-18.0pt;}
 @list l4
-	{mso-list-id:1785034068;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-446293132 940113921 940113923 940113925 940113921 940113923 940113925 940113921 940113923 940113925;}
+	{mso-list-id:1248804518;
+	mso-list-template-ids:1286238888;}
 @list l4:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
+	mso-level-tab-stop:36.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l4:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
-	mso-level-tab-stop:none;
+	mso-level-tab-stop:72.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
-	font-family:"Courier New";}
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
 @list l4:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
+	mso-level-tab-stop:108.0pt;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
 	font-family:Wingdings;}
 @list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l5
+	{mso-list-id:1420130502;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1166987524 940113935 940113945 940113947 940113935 940113945 940113947 940113935 940113945 940113947;}
+@list l5:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l5:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l5:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l6
+	{mso-list-id:1555044562;
+	mso-list-template-ids:-621366494;}
+@list l6:level1
+	{mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l6:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l7
+	{mso-list-id:1785034068;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-446293132 940113921 940113923 940113925 940113921 940113923 940113925 940113921 940113923 940113925;}
+@list l7:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l4:level5
+@list l7:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l4:level6
+@list l7:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l4:level7
+@list l7:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l4:level8
+@list l7:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l4:level9
+@list l7:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l7:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l7:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l7:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
@@ -1254,403 +1392,323 @@ ul
 
 <div class=WordSection1>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3'><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:EN-ID'>Backend (Golang &amp; <span class=SpellE>Fiber</span>)<o:p></o:p></span></b></p>
+<p class=MsoNormal><b><span style='mso-fareast-language:EN-ID'>Backend (Golang
+&amp; <span class=SpellE>Fiber</span>)<o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3'><span class=SpellE><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'>Deskripsi</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'> <span class=SpellE>Proyek</span><o:p></o:p></span></b></p>
+<p class=MsoNormal><span class=SpellE><b><span style='mso-fareast-language:
+EN-ID'>Deskripsi</span></b></span><b><span style='mso-fareast-language:EN-ID'> <span
+class=SpellE>Proyek</span><o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal'><span class=SpellE><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:EN-ID'>Proyek</span></span><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:EN-ID'> <span class=SpellE>ini</span> <span class=SpellE>adalah</span>
-backend <span class=SpellE>dari</span> <span class=SpellE>aplikasi</span> <span
-class=SpellE>manajemen</span> <span class=SpellE>stok</span>, yang <span
-class=SpellE>dibangun</span> <span class=SpellE>menggunakan</span> <span
-class=SpellE>bahasa</span> <span class=SpellE>pemrograman</span> Go. Backend <span
-class=SpellE>ini</span> <span class=SpellE>menyediakan</span> API yang <span
-class=SpellE>aman</span> dan <span class=SpellE>efisien</span> <span
-class=SpellE>untuk</span> <span class=SpellE>mengelola</span> data <span
-class=SpellE>produk</span>, <span class=SpellE>transaksi</span> <span
+<p class=MsoNormal><span class=SpellE><span style='mso-fareast-language:EN-ID'>Proyek</span></span><span
+style='mso-fareast-language:EN-ID'> <span class=SpellE>ini</span> <span
+class=SpellE>adalah</span> backend <span class=SpellE>dari</span> <span
+class=SpellE>aplikasi</span> <span class=SpellE>manajemen</span> <span
+class=SpellE>stok</span>, yang <span class=SpellE>dibangun</span> <span
+class=SpellE>menggunakan</span> <span class=SpellE>bahasa</span> <span
+class=SpellE>pemrograman</span> Go. Backend <span class=SpellE>ini</span> <span
+class=SpellE>menyediakan</span> API yang <span class=SpellE>aman</span> dan <span
+class=SpellE>efisien</span> <span class=SpellE>untuk</span> <span class=SpellE>mengelola</span>
+data <span class=SpellE>produk</span>, <span class=SpellE>transaksi</span> <span
 class=SpellE>stok</span>, dan log <span class=SpellE>aktivitas</span>. <span
 class=SpellE>Proyek</span> <span class=SpellE>ini</span> <span class=SpellE>menggunakan</span>
 <span class=SpellE>arsitektur</span> API RESTful.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3'><span class=SpellE><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'>Teknologi</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'> yang <span class=SpellE>Digunakan</span><o:p></o:p></span></b></p>
+<p class=MsoNormal><span class=SpellE><b><span style='mso-fareast-language:
+EN-ID'>Teknologi</span></b></span><b><span style='mso-fareast-language:EN-ID'>
+yang <span class=SpellE>Digunakan</span><o:p></o:p></span></b></p>
 
-<ul type=disc>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>Go (Golang):</span></b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'> Bahasa <span class=SpellE>pemrograman</span>
-     <span class=SpellE>utama</span> yang <span class=SpellE>digunakan</span> <span
-     class=SpellE>untuk</span> <span class=SpellE>membangun</span> server.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><span
-     class=SpellE><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-     mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>Fiber</span></b></span><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>:</span></b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'> Framework web <i>fast and
-     lightweight</i> <span class=SpellE>untuk</span> Go, <span class=SpellE>digunakan</span>
-     <span class=SpellE>untuk</span> <span class=SpellE>membangun</span> <span
-     class=SpellE>rute</span> API dan <span class=SpellE>menangani</span> <span
-     class=SpellE>permintaan</span> HTTP.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>GORM:</span></b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'> Library ORM
-     (Object-Relational Mapping) <span class=SpellE>untuk</span> Go, <span
-     class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
-     class=SpellE>interaksi</span> <span class=SpellE>dengan</span> database.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>GORM with PostgreSQL/MySQL:</span></b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'> Database yang <span
-     class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
-     class=SpellE>menyimpan</span> data. <span class=SpellE>Relasi</span> <span
-     class=SpellE>antar</span> <span class=SpellE>tabel</span> <span
-     class=SpellE>seperti</span> products, <span class=SpellE>kartu_stok</span>,
-     users, dan logs <span class=SpellE>dikelola</span> <span class=SpellE>menggunakan</span>
-     GORM.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>golang.org/x/crypto/<span
-     class=SpellE>bcrypt</span>:</span></b><span style='font-size:12.0pt;
-     font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-     mso-fareast-language:EN-ID'> <span class=SpellE>Pustaka</span> Go <span
-     class=SpellE>untuk</span> <span class=SpellE>mengenkripsi</span> kata <span
-     class=SpellE>sandi</span> <span class=SpellE>secara</span> <span
-     class=SpellE>aman</span> <span class=SpellE>sebelum</span> <span
-     class=SpellE>disimpan</span> di database.<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>github.com/<span
-     class=SpellE>golang-jwt</span>/<span class=SpellE>jwt</span>:</span></b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'> <span class=SpellE>Pustaka</span>
-     <span class=SpellE>untuk</span> <span class=SpellE>menangani</span> <span
-     class=SpellE>autentikasi</span> <span class=SpellE>pengguna</span> <span
-     class=SpellE>menggunakan</span> JSON Web Tokens (JWT).<o:p></o:p></span></li>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt'><b><span
-     style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-     "Times New Roman";mso-fareast-language:EN-ID'>github.com/<span
-     class=SpellE>gofiber</span>/<span class=SpellE>fiber</span>/v2/middleware/<span
-     class=SpellE>cors</span>:</span></b><span style='font-size:12.0pt;
-     font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-     mso-fareast-language:EN-ID'> Middleware <span class=SpellE>Fiber</span> <span
-     class=SpellE>untuk</span> <span class=SpellE>mengizinkan</span> <span
-     class=SpellE>permintaan</span> <span class=SpellE>dari</span> domain
-     frontend (CORS).<o:p></o:p></span></li>
-</ul>
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>Go
+(Golang): Bahasa <span class=SpellE>pemrograman</span> <span class=SpellE>utama</span>
+yang <span class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
+class=SpellE>membangun</span> server.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-color-alt:windowtext;
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><span style='mso-fareast-language:
+EN-ID'>Fiber</span></span><span style='mso-fareast-language:EN-ID'>: Framework
+web <i>fast and lightweight</i> <span class=SpellE>untuk</span> Go, <span
+class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
+class=SpellE>membangun</span> <span class=SpellE>rute</span> API dan <span
+class=SpellE>menangani</span> <span class=SpellE>permintaan</span> HTTP.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>GORM:
+Library ORM (Object-Relational Mapping) <span class=SpellE>untuk</span> Go, <span
+class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
+class=SpellE>interaksi</span> <span class=SpellE>dengan</span> database.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>GORM
+with PostgreSQL/MySQL: Database yang <span class=SpellE>digunakan</span> <span
+class=SpellE>untuk</span> <span class=SpellE>menyimpan</span> data. <span
+class=SpellE>Relasi</span> <span class=SpellE>antar</span> <span class=SpellE>tabel</span>
+<span class=SpellE>seperti</span> products, <span class=SpellE>kartu_stok</span>,
+users, dan logs <span class=SpellE>dikelola</span> <span class=SpellE>menggunakan</span>
+GORM.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>golang.org/x/crypto/<span
+class=SpellE>bcrypt</span>: <span class=SpellE>Pustaka</span> Go <span
+class=SpellE>untuk</span> <span class=SpellE>mengenkripsi</span> kata <span
+class=SpellE>sandi</span> <span class=SpellE>secara</span> <span class=SpellE>aman</span>
+<span class=SpellE>sebelum</span> <span class=SpellE>disimpan</span> di
+database.<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>github.com/<span
+class=SpellE>golang-jwt</span>/<span class=SpellE>jwt</span>: <span
+class=SpellE>Pustaka</span> <span class=SpellE>untuk</span> <span class=SpellE>menangani</span>
+<span class=SpellE>autentikasi</span> <span class=SpellE>pengguna</span> <span
+class=SpellE>menggunakan</span> JSON Web Tokens (JWT).<o:p></o:p></span></p>
+
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l0 level1 lfo7'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='mso-fareast-language:EN-ID'>github.com/<span
+class=SpellE>gofiber</span>/<span class=SpellE>fiber</span>/v2/middleware/<span
+class=SpellE>cors</span>: Middleware <span class=SpellE>Fiber</span> <span
+class=SpellE>untuk</span> <span class=SpellE>mengizinkan</span> <span
+class=SpellE>permintaan</span> <span class=SpellE>dari</span> domain frontend
+(CORS).<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext;
 mso-fareast-language:EN-ID'>go get github.com/<span class=SpellE>gofiber</span>/<span
 class=SpellE>fiber</span>/v2 gorm.io/<span class=SpellE>gorm</span>
 gorm.io/driver/<span class=SpellE>postgres</span> github.com/<span
 class=SpellE>joho</span>/<span class=SpellE>godotenv</span></span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'><o:p></o:p></span></p>
+style='mso-fareast-language:EN-ID'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-color-alt:windowtext;
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext;
 mso-fareast-language:EN-ID'>go get github.com/<span class=SpellE>golang-jwt</span>/<span
-class=SpellE>jwt</span>/v5</span><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
-EN-ID'><o:p></o:p></span></p>
+class=SpellE>jwt</span>/v5</span><span style='mso-fareast-language:EN-ID'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-color-alt:windowtext;
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext;
 mso-fareast-language:EN-ID'>go get golang.org/x/crypto/<span class=SpellE>bcrypt</span></span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'><o:p></o:p></span></p>
+style='mso-fareast-language:EN-ID'><o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3'><span class=SpellE><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'>Struktur</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'> <span class=SpellE>Proyek</span><o:p></o:p></span></b></p>
+<p class=MsoNormal><span class=SpellE><b><span style='mso-fareast-language:
+EN-ID'>Struktur</span></b></span><b><span style='mso-fareast-language:EN-ID'> <span
+class=SpellE>Proyek</span><o:p></o:p></span></b></p>
 
-<p class=MsoListParagraphCxSpFirst style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;mso-fareast-language:EN-ID'><span style='mso-list:
-Ignore'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>database:
-<span class=SpellE>Untuk</span> <span class=SpellE>logika</span> <span
-class=SpellE>koneksi</span> <span class=SpellE>ke</span> database.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-fareast-language:EN-ID'>database</span></b><span
+style='mso-fareast-language:EN-ID'>: <span class=SpellE>Untuk</span> <span
+class=SpellE>logika</span> <span class=SpellE>koneksi</span> <span
+class=SpellE>ke</span> database.<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;mso-fareast-language:EN-ID'><span style='mso-list:
-Ignore'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>models: <span
-class=SpellE>Untuk</span> <span class=SpellE>mendefinisikan</span> <span
-class=SpellE>struktur</span> data (model).<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-fareast-language:EN-ID'>models</span></b><span
+style='mso-fareast-language:EN-ID'>: <span class=SpellE>Untuk</span> <span
+class=SpellE>mendefinisikan</span> <span class=SpellE>struktur</span> data
+(model).<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;mso-fareast-language:EN-ID'><span style='mso-list:
-Ignore'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>controllers:
-<span class=SpellE>Untuk</span> <span class=SpellE>logika</span> <span
-class=SpellE>bisnis</span> dan handler API.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-fareast-language:EN-ID'>controllers</span></b><span
+style='mso-fareast-language:EN-ID'>: <span class=SpellE>Untuk</span> <span
+class=SpellE>logika</span> <span class=SpellE>bisnis</span> dan handler API.<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpMiddle style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;mso-fareast-language:EN-ID'><span style='mso-list:
-Ignore'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>routes: <span
-class=SpellE>Untuk</span> <span class=SpellE>mendaftarkan</span> <span
-class=SpellE>semua</span> endpoint API.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-fareast-language:EN-ID'>routes</span></b><span
+style='mso-fareast-language:EN-ID'>: <span class=SpellE>Untuk</span> <span
+class=SpellE>mendaftarkan</span> <span class=SpellE>semua</span> endpoint API.<o:p></o:p></span></p>
 
-<p class=MsoListParagraphCxSpLast style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-auto;mso-add-space:auto;text-indent:-18.0pt;line-height:normal;mso-list:l0 level1 lfo1;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol;mso-fareast-language:EN-ID'><span style='mso-list:
-Ignore'> <span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";mso-fareast-language:EN-ID'>middleware:
-<span class=SpellE>Untuk</span> <span class=SpellE>validasi</span> token JWT.<o:p></o:p></span></p>
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+EN-ID'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-fareast-language:EN-ID'>middleware</span></b><span
+style='mso-fareast-language:EN-ID'>: <span class=SpellE>Untuk</span> <span
+class=SpellE>validasi</span> token JWT.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal'><span class=GramE><b><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:EN-ID'>.ENV</span></b></span><b><span style='font-size:
-12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:EN-ID'><o:p></o:p></span></b></p>
+<p class=MsoNormal><span class=GramE><b><span style='mso-fareast-language:EN-ID'>.ENV</span></b></span><b><span
+style='mso-fareast-language:EN-ID'><o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'>DATABASE_URL=&quot;...&quot; <br>
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>DATABASE_URL=&quot;...&quot;
+<br>
 JWT_SECRET=&quot;<span class=SpellE>ini_adalah_secret_yang_sangat_aman_dan_rahasia</span>&quot;</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-"Times New Roman";mso-fareast-language:EN-ID'><o:p></o:p></span></p>
+style='mso-fareast-language:EN-ID'><o:p></o:p></span></p>
 
-<h3><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></h3>
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<h3><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></h3>
+<p class=MsoNormal><b>Frontend (<span class=SpellE>Vite</span> React.js &amp;
+Tailwind CSS)<o:p></o:p></b></p>
 
-<h3><span style='font-size:12.0pt'>Frontend (<span class=SpellE>Vite</span> React.js
-&amp; Tailwind CSS)<o:p></o:p></span></h3>
+<p class=MsoNormal><span class=SpellE><b>Deskripsi</b></span><b> <span
+class=SpellE>Proyek</span><o:p></o:p></b></p>
 
-<h3><span class=SpellE><span style='font-size:12.0pt'>Deskripsi</span></span><span
-style='font-size:12.0pt'> <span class=SpellE>Proyek</span><o:p></o:p></span></h3>
-
-<p><span class=SpellE>Ini</span> <span class=SpellE>adalah</span> frontend <span
-class=SpellE>dari</span> <span class=SpellE>aplikasi</span> <span class=SpellE>manajemen</span>
-<span class=SpellE>stok</span>, yang <span class=SpellE>menyediakan</span> <span
-class=SpellE>antarmuka</span> <span class=SpellE>pengguna</span> (UI) yang <span
-class=SpellE>interaktif</span> dan <span class=SpellE>responsif</span>. <span
-class=SpellE>Aplikasi</span> <span class=SpellE>ini</span> <span class=SpellE>memungkinkan</span>
-<span class=SpellE>pengguna</span> <span class=SpellE>untuk</span> <span
+<p class=MsoNormal><span class=SpellE>Ini</span> <span class=SpellE>adalah</span>
+frontend <span class=SpellE>dari</span> <span class=SpellE>aplikasi</span> <span
+class=SpellE>manajemen</span> <span class=SpellE>stok</span>, yang <span
+class=SpellE>menyediakan</span> <span class=SpellE>antarmuka</span> <span
+class=SpellE>pengguna</span> (UI) yang <span class=SpellE>interaktif</span> dan
+<span class=SpellE>responsif</span>. <span class=SpellE>Aplikasi</span> <span
+class=SpellE>ini</span> <span class=SpellE>memungkinkan</span> <span
+class=SpellE>pengguna</span> <span class=SpellE>untuk</span> <span
 class=SpellE>melihat</span> daftar <span class=SpellE>produk</span>, <span
 class=SpellE>mengelola</span> <span class=SpellE>stok</span>, <span
 class=SpellE>melihat</span> <span class=SpellE>riwayat</span> <span
 class=SpellE>transaksi</span>, dan log <span class=SpellE>aktivitas</span>.</p>
 
-<h3><span class=SpellE><span style='font-size:12.0pt'>Teknologi</span></span><span
-style='font-size:12.0pt'> yang <span class=SpellE>Digunakan</span><o:p></o:p></span></h3>
+<p class=MsoNormal><span class=SpellE><b>Teknologi</b></span><b> yang <span
+class=SpellE>Digunakan</span><o:p></o:p></b></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><b>React.js:</b> Library JavaScript <span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b>React.js</b>: Library JavaScript <span
 class=SpellE>untuk</span> <span class=SpellE>membangun</span> <span
 class=SpellE>antarmuka</span> <span class=SpellE>pengguna</span> yang <span
 class=SpellE>dinamis</span>.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><b>Vite</b></span><b>:</b> <i>Build
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=SpellE><b>Vite</b></span>: <i>Build
 tool</i> yang <span class=SpellE>sangat</span> <span class=SpellE>cepat</span> <span
 class=SpellE>untuk</span> <span class=SpellE>pengembangan</span> frontend.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><b>Tailwind CSS:</b> Framework CSS yang <span
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b>Tailwind CSS</b>: Framework CSS yang <span
 class=SpellE>berbasis</span> <span class=SpellE>utilitas</span>, <span
 class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
 class=SpellE>merancang</span> <span class=SpellE>tampilan</span> yang modern
 dan <span class=SpellE>responsif</span> <span class=SpellE>dengan</span> <span
 class=SpellE>cepat</span>.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><code><b><span style='mso-ansi-font-size:12.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif'>react-router-<span
-class=SpellE>dom</span></span></b></code><b>:</b> <span class=SpellE>Pustaka</span>
-<span class=SpellE>standar</span> <span class=SpellE>untuk</span> <span
-class=SpellE>navigasi</span> dan <i>routing</i> di <span class=SpellE>aplikasi</span>
-React.<o:p></o:p></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><code><b><span style='font-size:12.0pt;
+line-height:107%;font-family:"Times New Roman",serif;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin'>react-router-<span class=SpellE>dom</span></span></b></code>:
+<span class=SpellE>Pustaka</span> <span class=SpellE>standar</span> <span
+class=SpellE>untuk</span> <span class=SpellE>navigasi</span> dan <i>routing</i>
+di <span class=SpellE>aplikasi</span> React.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span class=SpellE><code><b><span
-style='mso-ansi-font-size:12.0pt;mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif'>axios</span></b></code></span><b>:</b>
+style='font-size:12.0pt;line-height:107%;font-family:"Times New Roman",serif;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin'>axios</span></b></code></span>:
 <span class=SpellE>Klien</span> HTTP <span class=SpellE>berbasis</span>
 Promise, <span class=SpellE>digunakan</span> <span class=SpellE>untuk</span> <span
 class=SpellE>melakukan</span> <span class=SpellE>permintaan</span> API <span
 class=SpellE>ke</span> server backend.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><code><b><span style='mso-ansi-font-size:12.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif'>react-<span
-class=SpellE>toastify</span></span></b></code><b>:</b> <span class=SpellE>Pustaka</span>
-<span class=SpellE>untuk</span> <span class=SpellE>menampilkan</span> <span
-class=SpellE>notifikasi</span> pop-up yang <span class=SpellE>interaktif</span>
-dan <span class=SpellE>informatif</span>.<o:p></o:p></p>
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><code><b><span style='font-size:12.0pt;
+line-height:107%;font-family:"Times New Roman",serif;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin'>react-<span class=SpellE>toastify</span></span></b></code>:
+<span class=SpellE>Pustaka</span> <span class=SpellE>untuk</span> <span
+class=SpellE>menampilkan</span> <span class=SpellE>notifikasi</span> pop-up
+yang <span class=SpellE>interaktif</span> dan <span class=SpellE>informatif</span>.<o:p></o:p></p>
 
-<p style='margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo3;
-tab-stops:list 36.0pt'><![if !supportLists]><span style='font-size:10.0pt;
-mso-bidi-font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
-mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'> <span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><code><b><span style='mso-ansi-font-size:12.0pt;
-mso-bidi-font-size:12.0pt;font-family:"Times New Roman",serif'>prop-types</span></b></code><b>:</b>
-<span class=SpellE>Digunakan</span> <span class=SpellE>untuk</span> <span
+<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l5 level1 lfo8'><![if !supportLists]><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin'><span
+style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><code><b><span style='font-size:12.0pt;
+line-height:107%;font-family:"Times New Roman",serif;mso-fareast-font-family:
+Calibri;mso-fareast-theme-font:minor-latin'>prop-types</span></b></code>: <span
+class=SpellE>Digunakan</span> <span class=SpellE>untuk</span> <span
 class=SpellE>validasi</span> <span class=SpellE>tipe</span> data <span
 class=SpellE>dari</span> props yang <span class=SpellE>diterima</span> oleh <span
 class=SpellE>komponen</span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
-background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span class=SpellE><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-mso-fareast-font-family:"Times New Roman";color:black;mso-color-alt:windowtext;
-mso-fareast-language:EN-ID'>npm</span></span><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";
-color:black;mso-color-alt:windowtext;mso-fareast-language:EN-ID'> create <span
-class=SpellE>vite@latest</span></span><span style='font-size:12.0pt;font-family:
-"Times New Roman",serif;mso-fareast-font-family:"Times New Roman";mso-fareast-language:
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span class=SpellE><span style='mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext;
+mso-fareast-language:EN-ID'>npm</span></span><span style='mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext;
+mso-fareast-language:EN-ID'> create <span class=SpellE>vite@latest</span> <br>
+</span><span class=SpellE><span class=line><span style='mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin;color:black;mso-color-alt:windowtext'>npm</span></span><span
+style='color:var(--color-sky-300)'></span></span><span class=line><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
+mso-color-alt:windowtext'> install</span><span style='color:var(--color-sky-300)'>
+<span class=SpellE>tailwindcss</span></span><span style='color:var(--color-sky-300)'>
+@<span class=SpellE>tailwindcss</span>/<span class=SpellE>vite</span></span></span></span><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
+mso-color-alt:windowtext'><br>
+<span class=SpellE>npm</span> install <span class=SpellE>axios</span>
+react-router-<span class=SpellE>dom</span> react-<span class=SpellE>toastify</span></span><span
+style='mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
 EN-ID'><o:p></o:p></span></p>
 
-<pre style='background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span class=SpellE><span class=line><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-color-alt:windowtext'>npm</span></span><span style='color:var(--color-sky-300)'></span></span><span
-class=line><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'> install</span><span style='color:var(--color-sky-300)'> <span
-class=SpellE>tailwindcss</span></span><span style='color:var(--color-sky-300)'> @<span
-class=SpellE>tailwindcss</span>/<span class=SpellE>vite</span></span></span></span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif;color:black;
-mso-color-alt:windowtext'><br>
-<span class=SpellE>npm</span> install <span class=SpellE>axios</span> react-router-<span
-class=SpellE>dom</span> react-<span class=SpellE>toastify</span></span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre><span
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></pre><pre><span
-class=SpellE><b><span style='font-size:12.0pt;font-family:"Times New Roman",serif'>vite.config</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></b></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'><br>
-import <span class=GramE>{ <span class=SpellE>defineConfig</span></span> } from '<span
-class=SpellE>vite</span>'</span><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'>import <span class=SpellE>tailwindcss</span> from '@<span
-class=SpellE>tailwindcss</span>/<span class=SpellE>vite</span>'</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'>export default <span class=SpellE><span
-class=GramE>defineConfig</span></span><span class=GramE>(</span>{</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'><span style='mso-spacerun:yes'> </span>plugins: [</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'><span style='mso-spacerun:yes'> </span><span
-class=SpellE><span class=GramE>tailwindcss</span></span><span class=GramE>(</span>),</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'><span style='mso-spacerun:yes'> </span>],</span><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></pre><pre
-style='background:#A6A6A6;mso-background-themecolor:background1;mso-background-themeshade:
-166'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;
-color:black;mso-color-alt:windowtext'>})</span><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif'><o:p></o:p></span></pre>
-
-<h3><span style='font-size:12.0pt'>Global CSS<o:p></o:p></span></h3>
+<p class=MsoNormal><span class=SpellE><b>vite.config</b></span><b><o:p></o:p></b></p>
 
 <p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
-mso-background-themeshade:166'><span style='font-size:12.0pt;line-height:107%;
-font-family:"Times New Roman",serif;color:black;mso-color-alt:windowtext'>@import
-&quot;<span class=SpellE>tailwindcss</span>&quot;</span><span style='font-size:
-12.0pt;line-height:107%;font-family:"Times New Roman",serif'><o:p></o:p></span></p>
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>import
+<span class=GramE>{ <span class=SpellE>defineConfig</span></span> } from '<span
+class=SpellE>vite</span>'</span><b><o:p></o:p></b></p>
 
-<p><o:p>&nbsp;</o:p></p>
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>import
+<span class=SpellE>tailwindcss</span> from '@<span class=SpellE>tailwindcss</span>/<span
+class=SpellE>vite</span>'</span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>export
+default <span class=SpellE><span class=GramE>defineConfig</span></span><span
+class=GramE>(</span>{</span><o:p></o:p></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'><span
+style='mso-spacerun:yes'>  </span>plugins: [</span><o:p></o:p></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'><span
+style='mso-spacerun:yes'>    </span><span class=SpellE><span class=GramE>tailwindcss</span></span><span
+class=GramE>(</span>),</span><o:p></o:p></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'><span
+style='mso-spacerun:yes'>  </span>],</span><o:p></o:p></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>})</span></p>
+
+<p class=MsoNormal><b>Global CSS<o:p></o:p></b></p>
+
+<p class=MsoNormal style='background:#A6A6A6;mso-background-themecolor:background1;
+mso-background-themeshade:166'><span style='color:black;mso-color-alt:windowtext'>@import
+&quot;<span class=SpellE>tailwindcss</span>&quot;</span><o:p></o:p></p>
+
+<p class=MsoNormal><span style='mso-fareast-language:EN-ID'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
 </div>
 
